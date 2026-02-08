@@ -23,8 +23,8 @@ except in accordance with the Icons8 license.**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KostiantinKorchuhanov/Notebook.git
-   cd Notebook
+   git clone https://github.com/KostiantinKorchuhanov/Note_app.git
+   cd Note_app
    ```
 2. Install dependencies:
    ```bash
